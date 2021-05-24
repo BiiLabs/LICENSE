@@ -1,0 +1,91 @@
+BiiLabs Software License Terms
+
+BiiLabs BiiTrails
+
+Shape
+
+These license terms are an agreement between you and BiiLabs Co., Ltd. (or
+one of its affiliates). They apply to the software named above and any BiiLabs
+services or software updates (except to the extent such services or updates are
+accompanied by new or additional terms, in which case those different terms
+apply prospectively and do not alter your or BiiLabs's rights relating to
+pre-updated software or services). IF YOU COMPLY WITH THESE LICENSE TERMS, YOU
+HAVE THE RIGHTS BELOW.  BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
+
+INSTALLATION AND USE RIGHTS.
+
+General. You may install and use the software and the included BiiLabs
+applications solely for internal development, testing and evaluation purposes.
+
+Included BiiLabs Applications. The software includes other BiiLabs
+applications which are governed by the licenses embedded in or made available
+with those applications.
+
+Third Party Components. The software may include third party components with
+separate legal notices or governed by other agreements, as may be described
+within the software or in the ThirdPartyNotices file(s) accompanying the
+software.
+
+Distribution and Production Use Rights.
+
+You may use the software in production (e.g. program the modified or unmodified
+software to devices you own or control) and distribute (i.e. make available to
+third parties) the modified or unmodified binary image produced from this code.
+
+You may permit your device distributors or developers to copy and distribute the
+binary image as programmed or to be programmed to your devices.
+
+You may redistribute the unmodified or modified source to your device
+distributors or developers. Modifications must be clearly marked. Any
+redistribution in source code form must contain this license and any other
+licenses that accompany the software.
+
+Requirements. For any code you distribute, you must:
+1. when distributed in binary form, except as embedded in a device, include
+   with such distribution the terms of this agreement;
+2. when distributed in source code form to distributors or developers of your
+   devices, include with such distribution the terms of this agreement; and
+3. indemnify, defend and hold harmless BiiLabs from any claims, including
+   attorneys' fees, related to the distribution or use of your devices, except
+   to the extent that any claim is based solely on the unmodified software.
+
+Restrictions. You may not:
+1. remove any copyright notices or licenses contained in the software;
+2. use BiiLabs's trademarks or trade dress in your application in any way that
+   suggests your device or application comes from or is endorsed by BiiLabs;
+3. transfer individual components, specific libraries, classes, functions or code
+   fragments of the software separately for purposes unrelated to the software; or
+4. use or distribute the software in any way that would subject the software or
+   BiiLabs's intellectual property or technology to any other license terms.
+
+SCOPE OF LICENSE. The software is licensed, not sold. BiiLabs reserves all
+other rights. Unless applicable law gives you more rights despite this
+limitation, you will not (and have no right to):
+1. remove, minimize, block, or modify any notices of BiiLabs or its suppliers in
+   the software;
+2. use the software in any way that is against the law or to create or propagate
+   malware; or
+3. share, publish, distribute, or lease the software, or provide the software as
+   a stand-alone offering for others to use.
+
+DATA. This software may interact with other BiiLabs products that collect data
+that is transmitted to BiiLabs.
+
+SUPPORT SERVICES. BiiLabs is not obligated under this agreement to provide any
+support services for the software. Any support provided is "as is", "with all
+faults", and without warranty of any kind.
+
+UPDATES. BiiLabs may periodically update the software. You may obtain updates
+only from BiiLabs or BiiLabs-authorized sources. Updates may not include or
+support all existing software features, services, or peripheral devices.
+
+TERMINATION. Without prejudice to any other rights, BiiLabs may terminate this
+agreement if you fail to comply with any of its terms or conditions. In such
+event, you must destroy all copies of the software and all of its component
+parts.
+
+ENTIRE AGREEMENT. This agreement, and any other terms BiiLabs may provide for
+supplements, updates, or third-party applications, is the entire agreement for
+the software. To the extent you have entered into a separate agreement with
+BiiLabs relating specifically to the software, the terms in such agreement
+shall control.
